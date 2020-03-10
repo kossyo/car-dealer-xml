@@ -1,4 +1,4 @@
-package com.koev.cardealerxml.util.tobedeleted;
+package com.koev.cardealerxml.util.xml_parser;
 
 import javax.xml.bind.JAXBException;
 
